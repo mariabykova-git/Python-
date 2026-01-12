@@ -1,6 +1,8 @@
 # Python
 Практическая работа анализ данных резюме hh.ru | Data Science проект
+
 Описание проекта
+
 Цель: Построить модель предсказания желаемой заработной платы соискателей HeadHunter на основе их характеристик.
 
 Исходные данные: 44 744 резюме с hh.ru (файл [dst-3.0_16_1_hh_database.csv](https://drive.google.com/file/d/1UuzlajwpheBPP1LrpD909CKwqS6JEkk1/view?usp=sharing))
